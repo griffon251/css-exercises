@@ -53,7 +53,7 @@ ul {
 
 .footer {
   display: flex;
-  background-color: hsl(0, 0%, 90%);
+  background-color: #eeeeee;
   margin-top: auto;
   align-items: center;
   height: 60px;
